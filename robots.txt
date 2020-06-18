@@ -1,0 +1,15 @@
+User-agent: Googlebot
+Allow: /index.html
+Allow: /publication
+
+User-agent: MSNBot
+Allow: /index.html
+
+User-agent: Baiduspider
+Allow: /index.html
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: *
+Disallow: /
